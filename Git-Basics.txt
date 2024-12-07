@@ -1,0 +1,11 @@
+What is Git?
+  1.Git is a version control system that helps you track changes in your code or files over time.
+  2.Imagine it as a timeline where you can save snapshots( called commits) of your project at different stages.
+  3. If you mess up or want to revisit an earlier version, Git allows you to go back in time easily.
+
+What is GitHub?
+ GitHub is a platform where you can store your Git repositories online( in the cloud).
+ Think of it as a social network for developers and their code:
+      You can upload your code( repository).
+      share it with others.
+      work with your team on the same project from anywhere
